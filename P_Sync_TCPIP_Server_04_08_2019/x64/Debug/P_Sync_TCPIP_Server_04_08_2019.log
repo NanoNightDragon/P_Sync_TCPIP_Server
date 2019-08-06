@@ -1,0 +1,13 @@
+﻿  Main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  Server_Class.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+z:\body\tcpip\p_sync_tcpip_server_04_08_2019\p_sync_tcpip_server_04_08_2019\server_class.cpp(33): warning C4101: len: неиспользованная локальная переменная
+  Создание кода...
+  P_Sync_TCPIP_Server_04_08_2019.vcxproj -> Z:\body\TCPIP\P_Sync_TCPIP_Server_04_08_2019\x64\Debug\P_Sync_TCPIP_Server_04_08_2019.exe
